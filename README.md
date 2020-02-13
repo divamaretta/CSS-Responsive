@@ -34,8 +34,10 @@ Sama seperti sebelum-sebelumnya responsive article adalah penampilan layout dari
 
 1.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/Screenshot%20(163).png)
+
 2.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20article%202.JPG)
+
 3.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20article%20%201.JPG)
 
@@ -45,8 +47,10 @@ Responsive image adalah ukuran dari sebuah gambar- gambar
 
 1.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/Screenshot%20(164).png)
+
 2.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20image.JPG)
+
 3.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20image%202.JPG)
 
@@ -56,15 +60,18 @@ Responsive Web Design (RWD), adalah pendekatan desain web yang bertujuan untuk m
 
 1.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/Screenshot%20(166).png)
+
 2.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20tamplate.JPG)
+
 3.
-![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/responsive%20tamplate%202.JPG)
+![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/tamplate%202.JPG)
 
 #Responsive Form
 
 1.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/Screenshot%20(167).png)
+
 2.
 ![Alt Text](https://github.com/divamaretta/CSS-Responsive/blob/master/form.JPG)
 
